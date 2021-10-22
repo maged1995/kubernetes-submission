@@ -25,6 +25,7 @@ jobs:
           name: install dependencies
           command: |
             python3 -m venv venv
+            chmod +x ./venv/bin/activate
             ./venv/bin/activate
             make install
             # Install hadolint
