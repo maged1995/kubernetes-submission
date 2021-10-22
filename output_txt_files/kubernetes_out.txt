@@ -1,0 +1,37 @@
+NAME               READY   STATUS    RESTARTS   AGE
+flaskskearlndemo   1/1     Running   0          3m27s
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+NAME               READY   STATUS    RESTARTS   AGE
+flaskskearlndemo   1/1     Running   0          7m37s
+NAME               READY   STATUS    RESTARTS   AGE
+flaskskearlndemo   1/1     Running   0          7m51s
+NAME               READY   STATUS    RESTARTS   AGE
+flaskskearlndemo   1/1     Running   0          8m39s
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+NAME               READY   STATUS              RESTARTS   AGE
+flaskskearlndemo   0/1     ContainerCreating   0          0s
+error: unable to forward port because pod is not running. Current status=Pending
+NAME               READY   STATUS    RESTARTS   AGE
+flaskskearlndemo   1/1     Running   0          20s
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+NAME               READY   STATUS              RESTARTS   AGE
+flaskskearlndemo   0/1     ContainerCreating   0          0s
+error: unable to forward port because pod is not running. Current status=Pending
+NAME               READY   STATUS              RESTARTS   AGE
+flaskskearlndemo   0/1     ContainerCreating   0          0s
+error: unable to forward port because pod is not running. Current status=Pending
+NAME               READY   STATUS              RESTARTS   AGE
+flaskskearlndemo   0/1     ContainerCreating   0          0s
+error: unable to forward port because pod is not running. Current status=Pending
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+NAME               READY   STATUS              RESTARTS   AGE
+flaskskearlndemo   0/1     ContainerCreating   0          0s
+error: unable to forward port because pod is not running. Current status=Pending
+NAME               READY   STATUS    RESTARTS   AGE
+flaskskearlndemo   1/1     Running   0          5s
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
