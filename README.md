@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![maged1995](https://circleci.com/gh/maged1995/kubernetes-submission.svg?style=svg)](https://app.circleci.com/pipelines/github/maged1995/kubernetes-submission)
 
 ## Project Overview
 
